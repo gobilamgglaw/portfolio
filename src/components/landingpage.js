@@ -41,14 +41,6 @@ class Landing extends Component {
                         </div>
                     </Cell>
                 </Grid>
-                <Footer className="footer-box" size="mini">
-                <FooterSection type="left" logo="Title">
-                    <FooterLinkList>
-                        <a href="/">Help</a>
-                        <a href="/">Privacy & Terms</a>
-                    </FooterLinkList>
-                </FooterSection>
-            </Footer>
            </div>
         )
     }
